@@ -55,7 +55,7 @@ body{font-family:arial;font-size:14px;line-height:18px;color:#000;}
     margin: 15px;
     margin-left: 0px;
 	border:1px solid;}
-.samepost{}
+
 .samepost h2{padding: 10px;
     border-bottom: 2px solid #255957;
     margin-bottom: 10px;
@@ -84,7 +84,7 @@ span {
     padding: 10px;
     font-size: 16px;
 }
-.subject {}
+
 .subject h3 {
     font-size: 25px;
     margin-bottom: 10px;
@@ -108,7 +108,7 @@ a{text-decoration:none; color: #255957;font-size:19px; }
 	margin-bottom:15px;
     padding: 10px;
 	border:1px solid;}
-.samesidebar{}
+
 .samesidebar h2{background: #459E99;
     padding: 10px;
     margin-bottom: 8px;
