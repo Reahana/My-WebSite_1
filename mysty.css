@@ -138,7 +138,7 @@ table.mytable tr:nth-child(2n+1){background:#7DC8C3;}
 table.mytable tr:nth-child(2n){    background: #7AEDDA;}
 table.mytable tr th{text-align:center; background:  #459E99;padding:3px; color:#fff;} 
 table.mytable tr td{text-align:center; padding:5px; color:#255957; font-weight:bold;}
-.footsection {height:90px;background:#459E99;text-align:center;}
+.footsection {min-height:75px;background:#459E99;text-align:center;margin-bottom: 5px;}
 .footsection p{color:#fff;    }
 .footermenu{margin-bottom:5px;
 margin-top:15px;}
